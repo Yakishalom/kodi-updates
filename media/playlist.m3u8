@@ -1,0 +1,71 @@
+#EXTM3U url-tvg="https://epg.admuspeh.my"
+#EXTINF:-1 tvg-id="281" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Kan%2011%20IL.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8339/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="7", ערוץ 11 
+http://cdn.admuspeh.my/8339/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="148" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2012%20HD%20IL.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8163/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="7", ערוץ 12 
+http://cdn.admuspeh.my/8163/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="133" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/CHANNEL%2013%20HD%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8143/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="14", ערוץ 13 
+http://cdn.admuspeh.my/8143/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="136" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Channel%2014%20HD%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8112/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="14", ערוץ 14 
+http://cdn.admuspeh.my/8112/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="567" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/24.png" catchup-days="3", ערוץ 24 
+http://cdn.admuspeh.my/8371/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="374" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Good%20Life%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8717/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", החיים הטובים
+http://cdn.admuspeh.my/8717/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="364" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Home%20Plus%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8733/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", Home Plus 
+http://cdn.admuspeh.my/8733/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="382" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Ego%20Total%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8726/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", אגו טוטל
+http://cdn.admuspeh.my/8726/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="339" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/VIVA%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8526/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ערוץ ויוה
+http://cdn.admuspeh.my/8526/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="372" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Viva+%20IL.png" catchup="default" catchup-days="7" catchup-source="http://cdn.admuspeh.my/8372/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="7", ערוץ ויוה +
+http://cdn.admuspeh.my/8372/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="481" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Yamtihoni%20IL.png" catchup-days="3", ים תיכוני 
+http://cdn.admuspeh.my/8123/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="386" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Kan%20Elady.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8733/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", כאן חינוכית 23 
+http://cdn.admuspeh.my/8733/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="375" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Canal%20Discovery%20HD%20PL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8718/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ערוץ דיסקברי 
+http://cdn.admuspeh.my/8718/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="384" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/HEALTH%20CHANNEL%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8728/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ערוץ הבריאות 
+http://cdn.admuspeh.my/8728/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="383" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Food%20Network%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8727/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ערוץ האוכל 
+http://cdn.admuspeh.my/8727/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="378" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/TRAVEL%20CHANNEL%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8721/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ערוץ הטיולים 
+http://cdn.admuspeh.my/8721/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="379" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Turkish%20Drama%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8722/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3",  טורקיות דרמה + 
+http://cdn.admuspeh.my/8722/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="333" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/SPORT%201%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8339/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ספורט 1 
+http://cdn.admuspeh.my/8339/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="332" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/SPORT%202%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8341/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ספורט 2 
+http://cdn.admuspeh.my/8341/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="331" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Sport%203%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8343/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ספורט 3 
+http://cdn.admuspeh.my/8343/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="441" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/SPORT%204%20HD%20IL.png" catchup-days="3", ספורט 4 
+http://cdn.admuspeh.my/8513/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="371" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8423/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ספורט 5 
+http://cdn.admuspeh.my/8423/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="479" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20plus%20HD.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8141/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ספורט 5 פלוס 
+http://cdn.admuspeh.my/8141/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="223" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20LIVE%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8239/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ספורט 5 לייב 
+http://cdn.admuspeh.my/8239/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="483" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Sport%205%20Stars%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8186/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ספורט 5 סטארס 
+http://cdn.admuspeh.my/8186/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="681" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/SPORT%205%20GOLD%20IL.png" catchup-days="3", ספורט 5 גולד 
+http://cdn.admuspeh.my/8974/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="365" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/ONE%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8734/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ONE 1 
+http://cdn.admuspeh.my/8734/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="381" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/ONE%202%20HD%20IL.png" catchup="default" catchup-days="3" catchup-source="http://cdn.admuspeh.my/8724/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="3", ONE 2 
+http://cdn.admuspeh.my/8724/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="215" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/hop%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8232/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="14", הופ 
+http://cdn.admuspeh.my/8232/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="278" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Baby%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8335/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="14", בייבי 
+http://cdn.admuspeh.my/8335/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="424" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Hot%20Luli.png" catchup-days="3", לולי 
+http://cdn.admuspeh.my/8517/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="216" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/TeenNick%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8233/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="14", ניקולודיון 
+http://cdn.admuspeh.my/8233/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="137" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/DISNEY%20CHANNEL%20HD%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8149/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="14", ערוץ דיסני 
+http://cdn.admuspeh.my/8149/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="318" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Disney%20Jr%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8373/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="14", ערוץ דיסני ילדים 
+http://cdn.admuspeh.my/8373/video.m3u8?token=5ak9t82T8tstCeNS
+#EXTINF:-1 tvg-id="214" group-title="Израиль"  tvg-logo="https://m3u.admuspeh.my/icon/Nick%20Jr%20IL.png" catchup="default" catchup-days="14" catchup-source="http://cdn.admuspeh.my/8231/video-${start}-${duration}.m3u8?token=5ak9t82T8tstCeNS" timeshift="14", ניק ילדים 
+http://cdn.admuspeh.my/8231/video.m3u8?token=5ak9t82T8tstCeNS
