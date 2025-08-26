@@ -8105,7 +8105,7 @@
         <height>220</height>
         <align>center</align>
         <font>BigAssTimeFont</font>
-        <textcolor>0xFFFFFFFF</textcolor>
+        <textcolor>FF2A9BDB</textcolor>
         <shadowcolor>black</shadowcolor>
         <label>$INFO[System.Time]</label>
     </control>
@@ -8121,7 +8121,7 @@
     <align>left</align>
     <valign>top</valign>
     <font>font24_title</font>
-    <textcolor>0xFFFFFFFF</textcolor>
+    <textcolor>FF2A9BDB</textcolor>
     <shadowcolor>black</shadowcolor>
     <label>$INFO[System.Date]</label>
   </control>
